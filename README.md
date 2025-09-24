@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Main Branch Change
-=======
-# Conflict Test
->>>>>>> feature/conflict
+# Git Practice
+## Added about section
+
